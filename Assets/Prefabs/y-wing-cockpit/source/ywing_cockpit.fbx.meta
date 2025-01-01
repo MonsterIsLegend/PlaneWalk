@@ -3,7 +3,117 @@ guid: e15c02ec85d396b4caa9a508cf756030
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: back
+    second: {fileID: 2800000, guid: 136b738ebff74294da24835658109458, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: canopy
+    second: {fileID: 2800000, guid: c93f2f18233cdb94d8a860387ef3839e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cockpit
+    second: {fileID: 2800000, guid: 4c42b818a41a05140863ebd1976b98ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cockpitdetail01
+    second: {fileID: 2800000, guid: 746291ad1b33c974299fb4410e57ba1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cockpitdetail03
+    second: {fileID: 2800000, guid: 8eaa7b3561ac1464baade699fc02f8c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: console
+    second: {fileID: 2800000, guid: 1d7886f6b651fba4095043f193d2f9ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: console_detail01
+    second: {fileID: 2800000, guid: 74e16104775965044addbe262fa48e54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: consoletube
+    second: {fileID: 2800000, guid: ccb39f9258b94d84782f121965fe9d68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: consoletube_normal
+    second: {fileID: 2800000, guid: 8ad2b5f8fdb8b7c4c9d19da04dcb9fcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hull
+    second: {fileID: 2800000, guid: afca3ab669d7fd74f8f340ff789794e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hull_normal
+    second: {fileID: 2800000, guid: f9fbf042c0536bf4480d88ea5bd97f74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: largelight_emission_darkred
+    second: {fileID: 2800000, guid: fe2c58176ea6a804182457ce103adb96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: largelight_emission_darkyellow
+    second: {fileID: 2800000, guid: 0d0ca1d5bcc4a5545bc0fc1ea2dc7de4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: largetube
+    second: {fileID: 2800000, guid: cd232db34cb52af408e631e3eaa61033, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: outlet
+    second: {fileID: 2800000, guid: 8f4fcdbff0a39294e90285871db9ecb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tinytube 1
+    second: {fileID: 2800000, guid: c3760c162e9431b4e80b97781b68aa48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tinytube_normal
+    second: {fileID: 2800000, guid: 644c851fa12795847838d349fea20a8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: toggle
+    second: {fileID: 2800000, guid: 3ff5b54fffa1159478fd25e9a2e9716b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: toptube
+    second: {fileID: 2800000, guid: 92bb392e3ac547346b9560a9c2bb0d1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: toptube_normal
+    second: {fileID: 2800000, guid: 1d00c6f9793ccf64784f953c74eea1fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wire01_new
+    second: {fileID: 2800000, guid: 6068c47146155aa45a486459574e35e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wire02_new
+    second: {fileID: 2800000, guid: 87f3ab46c91881543aa1f96c53779f62, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

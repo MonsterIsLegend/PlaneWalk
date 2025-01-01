@@ -3,7 +3,97 @@ guid: 0621b11510ad9cf4eb849439aab1e3db
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: awing_b
+    second: {fileID: 2800000, guid: 4dbda68ea27cc2547838b63b1472c26c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: awing_c
+    second: {fileID: 2800000, guid: cc680dfd43399e248b65acd9528ce9df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: button
+    second: {fileID: 2800000, guid: d1e9035549363a94681f23fb3413a63d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cockpit
+    second: {fileID: 2800000, guid: 5de7965089a1d9443b47c7dffe3115d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: detail01
+    second: {fileID: 2800000, guid: aefb5843e534edf47aee8484a6063d46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: detail02
+    second: {fileID: 2800000, guid: b22ff0b13ab404f43a6cf3a692fa36fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: detail03
+    second: {fileID: 2800000, guid: 27c4caf8076649c439bbc5855ea5e488, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: detail05
+    second: {fileID: 2800000, guid: 8dc5ca9222eae364aa5598b1457faa55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: largelight
+    second: {fileID: 2800000, guid: 715e693414328164e841162725dcd360, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: largelight_emision
+    second: {fileID: 2800000, guid: 9f3578b3c23de624d9f7d958ae630026, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: largelight_normal
+    second: {fileID: 2800000, guid: e910edbddf3a7aa4dab542b1418ef671, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lowerconsole
+    second: {fileID: 2800000, guid: b361de8e850261b418541b6db83c7e68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mainconsole
+    second: {fileID: 2800000, guid: 417667fc8801b5e47949000c013e2a94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rim
+    second: {fileID: 2800000, guid: 481b011b8f4e71341887325328119f54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scope
+    second: {fileID: 2800000, guid: 9c222f9837a18044ba304e21170c7bf7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen
+    second: {fileID: 2800000, guid: ed3360948fee59a4db2d93a876d1dea9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen_diffuse
+    second: {fileID: 2800000, guid: c88e4abfd5edc2e4292e1f2a9ed195e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: switch
+    second: {fileID: 2800000, guid: d1ebe0db02e64394087ee5ff3837c589, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
