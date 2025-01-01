@@ -11,12 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StartScene.unity
     guid: 4da4c759537cb1b41bb88feb68156a71
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ArScene.unity
     guid: ae66f2ab3a9736c4090981c7e51f594a
   - enabled: 1
     path: Assets/Scenes/Boening737.unity
     guid: c5209e527cff5f04599f6df702507fe0
+  - enabled: 1
+    path: Assets/Scenes/YWing.unity
+    guid: 137c478292d858e4ea24dc3f7cc8785a
+  - enabled: 1
+    path: Assets/Scenes/AWing.unity
+    guid: 7f376335f7c763244a44b949138f1d00
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 95d709197a9533c47a7618d51d85d79d, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

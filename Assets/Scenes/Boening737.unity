@@ -93,7 +93,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 20201, guid: 0000000000000000f000000000000000, type: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: f345849f84082d84f8f5765987353b6f, type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -132,8 +132,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -228,8 +228,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -406,8 +406,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -474,8 +474,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -534,8 +534,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 5
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -709,8 +709,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -774,8 +774,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -850,8 +850,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -883,8 +883,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -926,7 +926,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 724405e91f4c43239ecc20bf14e23697, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  header: MASTER CAUTION
+  header: Master Caution
   desc: "Element kt\xF3ry informuje za\u0142og\u0119 o potencjalnych problemach lub
     anomaliach w systemach samolotu. "
 --- !u!114 &411679871
@@ -942,8 +942,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -986,8 +986,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 5
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -1072,8 +1072,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -1132,8 +1132,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -1183,16 +1183,16 @@ RectTransform:
   m_GameObject: {fileID: 593074326}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 4, y: 4, z: 4}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1195833060}
   m_Father: {fileID: 2067991993}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -207.4, y: -79.9}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: -274.51, y: -117.34412}
+  m_SizeDelta: {x: 112.75, y: 42.8863}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &593074328
 MonoBehaviour:
@@ -1275,7 +1275,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 0.5882353}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1318,8 +1318,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -1362,8 +1362,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -1470,10 +1470,10 @@ MonoBehaviour:
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 9
-  m_fontSizeMax: 36
-  m_fontStyle: 0
+  m_fontSizeMax: 30
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 256
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -1571,8 +1571,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -1614,8 +1614,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -1674,8 +1674,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -1727,8 +1727,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -1799,8 +1799,8 @@ RectTransform:
   m_LocalScale: {x: 4, y: 4, z: 4}
   m_ConstrainProportionsScale: 1
   m_Children:
-  - {fileID: 1156020745}
   - {fileID: 671418451}
+  - {fileID: 1156020745}
   m_Father: {fileID: 2067991993}
   m_LocalEulerAnglesHint: {x: 0, y: -0.963, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -1821,7 +1821,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6509434, g: 0.6509434, b: 0.6509434, a: 0.60784316}
+  m_Color: {r: 0.6792453, g: 0.6792453, b: 0.6792453, a: 0.3529412}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1876,8 +1876,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -1955,8 +1955,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 724405e91f4c43239ecc20bf14e23697, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  header: FIRE CAUTION
-  desc: "Element ostrzega za\u0142og\u0119 przed po\u017Carem."
+  header: Fire Caution
+  desc: "Element kt\xF3ry ostzrega za\u0142og\u0119 przed po\u017Carem na pok\u0142adzie
+    samolotu."
 --- !u!114 &970269288
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1970,8 +1971,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -2451,8 +2452,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 5
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -2510,8 +2511,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 5
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -2549,7 +2550,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   header: Forward Overhead Panel
-  desc: "sekcja kontrolna zwi\u0105zana z zarz\u0105dzaniem przep\u0142ywem paliwa,
+  desc: "Sekcja kontrolna zwi\u0105zana z zarz\u0105dzaniem przep\u0142ywem paliwa,
     hamulcami i innymi systemami"
 --- !u!1 &1023286168 stripped
 GameObject:
@@ -2584,8 +2585,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -2691,8 +2692,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -2739,8 +2740,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -2803,8 +2804,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -2863,8 +2864,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -2967,15 +2968,15 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
+  m_fontSize: 28
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 9
-  m_fontSizeMax: 36
+  m_fontSizeMax: 28
   m_fontStyle: 0
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 256
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -2984,7 +2985,7 @@ MonoBehaviour:
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
   m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
+  m_wordWrappingRatios: 0.331
   m_overflowMode: 0
   m_linkedTextComponent: {fileID: 0}
   parentLinkedComponent: {fileID: 0}
@@ -3076,7 +3077,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Powr\xF3t\n"
+  m_text: "Powr\xF3t do Menu"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3103,13 +3104,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
+  m_fontSize: 18.9
   m_fontSizeBase: 24
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -3477,8 +3478,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -3530,8 +3531,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -3573,7 +3574,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 724405e91f4c43239ecc20bf14e23697, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  header: MASTER CAUTION
+  header: Master Caution
   desc: "Element kt\xF3ry informuje za\u0142og\u0119 o potencjalnych problemach lub
     anomaliach w systemach samolotu. "
 --- !u!114 &1487062428
@@ -3589,8 +3590,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -3669,8 +3670,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -3718,14 +3719,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1666674363}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.045098078, y: 0.016084587, z: 0.0012380715, w: 0.9988523}
-  m_LocalPosition: {x: -5.2841067, y: 6.773868, z: 0.72503334}
+  m_LocalRotation: {x: 0.038393535, y: 0.016075915, z: 0.001345991, w: 0.99913245}
+  m_LocalPosition: {x: -5.278, y: 6.928, z: 0.946}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1039941142}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 5.167, y: 1.855, z: 0.226}
+  m_LocalEulerAnglesHint: {x: 4.398, y: 1.852, z: 0.225}
 --- !u!114 &1666674366
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3803,8 +3804,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -3850,8 +3851,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -3894,8 +3895,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -3932,8 +3933,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -4012,8 +4013,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
@@ -4174,8 +4175,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 724405e91f4c43239ecc20bf14e23697, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  header: FIRE CAUTION
-  desc: "Element ostrzega za\u0142og\u0119 przed po\u017Carem."
+  header: Fire Caution
+  desc: "Element kt\xF3ry ostzrega za\u0142og\u0119 przed po\u017Carem na pok\u0142adzie
+    samolotu."
 --- !u!114 &2110020573
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4189,8 +4191,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMode: 0
-  outlineColor: {r: 1, g: 1, b: 1, a: 1}
-  outlineWidth: 2
+  outlineColor: {r: 0.8270674, g: 0, b: 1, a: 1}
+  outlineWidth: 6.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
